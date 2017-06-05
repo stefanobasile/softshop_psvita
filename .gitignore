@@ -1,0 +1,8 @@
+*.o
+*.bin
+*.elf
+*.velf
+*.vpk
+*.sfo
+tags
+*.swp
